@@ -11,6 +11,6 @@ const Input = styled.input`
 	margin-bottom: 30px;
 `
 
-export default ({ onSearchChange }) => (
-	<Input type="search" placeholder="Search monsters" onChange={onSearchChange} />
+export default ({ placeholder, onChange }) => (
+	<Input type="search" placeholder={placeholder} onChange={onChange} />
 )
