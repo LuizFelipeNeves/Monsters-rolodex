@@ -1,7 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Monsters-rolodex
+This project has been created in course [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) with [Create React App](https://github.com/facebook/create-react-app).
 
+<p align="center">
+  <a href="https://robohash.org">
+      <img src="./others/screen.png" alt="Monsters-Roledex" width="600px"/>
+  </a>
+</p>
+
+___
+___
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -42,11 +50,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ___
 ___
+## Create React app
 
-
-# Create React app
-
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
